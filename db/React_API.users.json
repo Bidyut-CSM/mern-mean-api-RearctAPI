@@ -1,0 +1,307 @@
+[{
+  "_id": {
+    "$oid": "6361cd50d2fe57304ac6b3fe"
+  },
+  "name": "nabin",
+  "phone": "8763699712",
+  "email": "email17@gmail.com",
+  "photo": "2022-12-9_7-4-26-329.jpg",
+  "password": "$2b$10$uRz2eI6Mh8cGo.sfo//ireRiVkX.jRxfdf//LcFYhCWrWt7BZlMOy",
+  "created_at": {
+    "$date": "2022-11-02T01:52:12.887Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-09T01:18:38.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6361cda3e154797b357edfbb"
+  },
+  "name": "minu di",
+  "phone": "8763699743",
+  "email": "email18@gmail.com",
+  "photo": "2022-12-9_7-4-44-572.jpg",
+  "password": "$2b$10$QwrowaqcWXw75sZAZS.RWudgKOJwSLvniWFkwJVqws3wEwYk35.gC",
+  "created_at": {
+    "$date": "2022-11-02T01:53:21.684Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:34:44.575Z"
+  },
+  "__v": 16,
+  "tokens": []
+},
+{
+  "_id": {
+    "$oid": "6361d0d0571a66adfdb3e0f5"
+  },
+  "name": "anita di",
+  "phone": "1234567811",
+  "email": "email19@gmail.com",
+  "photo": "2022-12-9_7-5-6-775.jpg",
+  "password": "$2b$10$W9pOFm2W7Y5ceCVLQbfY.ONC1.KgbIiFF69slP5Q34NTLg3bG8aLi",
+  "created_at": {
+    "$date": "2022-11-02T02:07:11.086Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:35:06.778Z"
+  },
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzYxZDBkMDU3MWE2NmFkZmRiM2UwZjUiLCJpYXQiOjE2NjczNTQ4MzJ9.UxnDJk9c0_UYr73XJywldpSU80VncF03OC4vnjRxrRs",
+      "_id": {
+        "$oid": "6361d0d0571a66adfdb3e0f6"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6365fe939039a32a1960b46a"
+  },
+  "name": "Vidyut Mandal",
+  "phone": "1234567890",
+  "email": "vidyut.star006@gmail.com",
+  "photo": "2022-11-7_21-8-16-955.gif",
+  "password": "$2b$10$X7J9cNGnDLQCKyond2fulO2m48lJn0Dp4LoOZuoJzS9sedNbvSAS.",
+  "created_at": {
+    "$date": "2022-11-05T06:09:34.731Z"
+  },
+  "updated_at": {
+    "$date": "2022-11-07T15:38:16.958Z"
+  },
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzY1ZmU5MzkwMzlhMzJhMTk2MGI0NmEiLCJpYXQiOjE2ODM0NDAzMjN9.fVYJnJvcJW7jojbmPMLSyx_-ubiexQr7K2F6jy2dqVI",
+      "_id": {
+        "$oid": "645742c3a81ce659366b3c9b"
+      }
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzY1ZmU5MzkwMzlhMzJhMTk2MGI0NmEiLCJpYXQiOjE2OTMzMTYwNjJ9.uAlru4qeDBnY4haioKR-KS54edt7P2aShgPXS6eUWU8",
+      "_id": {
+        "$oid": "64edf3de42500e23df72af4e"
+      }
+    }
+  ],
+  "__v": 144
+},
+{
+  "_id": {
+    "$oid": "636613f839c8707ecc0cd23f"
+  },
+  "name": "Bidyut Mandal",
+  "phone": "1234567891",
+  "email": "mondalbidyut38@gmail.com",
+  "photo": "2022-12-9_7-8-39-620.png",
+  "password": "$2b$10$Deg3.pl.n5hSHZuNf77VKuDJghSO.OcaTz1GOTBwJn00pD9hdaY3u",
+  "created_at": {
+    "$date": "2022-11-05T07:41:27.213Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-09T01:26:37.856Z"
+  },
+  "tokens": [],
+  "__v": 50
+},
+{
+  "_id": {
+    "$oid": "636753e2c72e4e0a0c957f61"
+  },
+  "name": "surjay da",
+  "phone": "1234567899",
+  "email": "email20@gmail.com",
+  "photo": "2022-12-9_7-6-13-510.jpg",
+  "password": "$2b$10$6DIAqwRXFaOx9Xn/gXATzeR3DvhGWuzXCpYYWifbpNuBaBiImUYCa",
+  "created_at": {
+    "$date": "2022-11-06T06:26:43.413Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:36:13.513Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6367542eba1e28edb7ad0d09"
+  },
+  "name": "mommy",
+  "phone": "0987654321",
+  "email": "email21@gmail.com",
+  "photo": "2022-12-9_7-6-40-831.jpg",
+  "password": "$2b$10$Tr0jnY1qotyJDEw2ozUmgOPnWu0a6fZX1FFvmM5izw.ugjTxpCS4i",
+  "created_at": {
+    "$date": "2022-11-06T06:28:23.560Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:36:40.834Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63675437ba1e28edb7ad0d0f"
+  },
+  "name": "tufan",
+  "phone": "0987624321",
+  "email": "email22@gmail.com",
+  "photo": "2022-12-9_7-7-14-235.jpg",
+  "password": "$2b$10$mcfiASW7zKVkCq0JdqgO1uq.K8o0/kQx4M.CKoqGCUvLNv4kk7bru",
+  "created_at": {
+    "$date": "2022-11-06T06:28:23.560Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:37:14.240Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63675440ba1e28edb7ad0d15"
+  },
+  "name": "papa",
+  "phone": "0984624321",
+  "email": "email23@gmail.com",
+  "photo": "2022-12-9_7-7-32-381.jpg",
+  "password": "$2b$10$pJ05pAdol7Scs8tkXrUDSeSEBfALK3KlXtFZ.WEauS3ibn9MIqEba",
+  "created_at": {
+    "$date": "2022-11-06T06:28:23.560Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:37:32.384Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6367544bba1e28edb7ad0d1b"
+  },
+  "name": "bapi",
+  "phone": "0983624321",
+  "email": "email26@gmail.com",
+  "photo": "2022-12-9_7-7-50-156.jpg",
+  "password": "$2b$10$pRPRst1.PR/wJhqKILtqKula6mIE3XOGu8RLgMwa1Gd9BZeHJDzS2",
+  "created_at": {
+    "$date": "2022-11-06T06:28:23.560Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:37:50.158Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636c53d252def52df1241229"
+  },
+  "name": "Vidyut Mandal Angular",
+  "phone": "8763699746",
+  "email": "vidyut.star.angular006@gmail.com",
+  "photo": "2023-2-9_6-49-33-609.JPEG",
+  "password": "$2b$10$b.2lNOiTM2hPZZaspnr7UOra4x97hzURxjSwpyXfu1.BHXWoQuI.2",
+  "created_at": {
+    "$date": "2022-11-10T01:27:45.993Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-09T01:19:33.613Z"
+  },
+  "tokens": [],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "636da35fa5b345ee815662dd"
+  },
+  "name": "vicky",
+  "phone": "0983624324",
+  "email": "email27@gmail.com",
+  "photo": "2022-12-9_7-8-58-246.jpg",
+  "password": "$2b$10$hrsWrQkeQ6jtgfMDruk1Be7OUNFuxX3gUkyqYlU6laRP5T37KNUx6",
+  "created_at": {
+    "$date": "2022-11-11T01:03:53.223Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:38:58.249Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636da36ca5b345ee815662e3"
+  },
+  "name": "tapan",
+  "phone": "0983624322",
+  "email": "email28@gmail.com",
+  "photo": "2022-12-9_7-9-37-196.jpg",
+  "password": "$2b$10$Uompct34ReraajdfBBN3e.DqxC7hyiTeHINofKN1WmAcgJ82qj6ci",
+  "created_at": {
+    "$date": "2022-11-11T01:03:53.223Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:39:37.210Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636da387a5b345ee815662eb"
+  },
+  "name": "kaku",
+  "phone": "1983624324",
+  "email": "email29@gmail.com",
+  "photo": "2022-12-9_7-10-19-952.jpg",
+  "password": "$2b$10$98qISNpct5oq7MtnWpLTju0fylsZpUfka0pHOaYrW.H7sTgEN6w/C",
+  "created_at": {
+    "$date": "2022-11-11T01:03:53.223Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:40:19.954Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636da397a5b345ee815662f1"
+  },
+  "name": "Ratnesh Da",
+  "phone": "1983622322",
+  "email": "email30@gmail.com",
+  "photo": "2022-12-9_7-10-56-648.jpg",
+  "password": "$2b$10$DT/vJuNquz5bCZ5OJekTceHOsOe7UUQCF6XeqzpHHgPVC2JRu0cwS",
+  "created_at": {
+    "$date": "2022-11-11T01:03:53.223Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:40:56.652Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6378fd232a9ddf41734cfbe6"
+  },
+  "name": "Vidyut Kumar",
+  "phone": "7735501315",
+  "email": "vidyut.mandal@gmail.com",
+  "photo": "2022-11-19_21-28-27-78.jpg",
+  "password": "$2b$10$/t4VCSWkw48hD0BU7q4yZ.rjXI/XQ09P54UUH3Pz/N/qEoToa8POG",
+  "created_at": {
+    "$date": "2022-11-19T15:57:45.307Z"
+  },
+  "updated_at": {
+    "$date": "2022-12-09T01:38:29.728Z"
+  },
+  "tokens": [],
+  "__v": 0
+}]

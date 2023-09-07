@@ -35,13 +35,17 @@ routeapp.get('/users/post-list', Auth, UsersPostController.UsersPostList);
 
 routeapp.get('/users/post', Auth, UsersPostController.UsersPost);
 
+routeapp.post('/users/save-post', Auth, UsersPostController.SaveUsersPost); 
+
+routeapp.get('/users/post-byid/:rowid', Auth, UsersPostController.GetPostById); 
+ 
+routeapp.get('/users/delete-post-byid/:rowid', Auth, UsersPostController.DeletePostById); 
+
 routeapp.post('/upload-xl/', Auth, UsersPostController.ImportUserPostExcel);
 
 routeapp.get('/export-xl/', Auth, UsersPostController.ExportUserPostExcel);
 
 routeapp.get('/users/send-mail', Auth, UsersPostController.SendMail);
-
-
 
 routeapp.post('/save-user-chat', Auth, UsersChatController.SaveChat);
 
